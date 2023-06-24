@@ -1,10 +1,11 @@
 * ABOUT:
 ```
-- This repo is me learning some more advanced or nuanced JavaScript features.
+- This repo is about me learning some more advanced or nuanced JavaScript    
+  features.
 - See the wiki for a complete .eslintrc.js file
 ```
 
-* MIT LINCENSE:
+* MIT LICENSE:
 ```
 Copyright 2023 github.com/Enrique-ZA
 
