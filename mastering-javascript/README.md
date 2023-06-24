@@ -1,5 +1,11 @@
-This repo is me learning some more advanced or nuanced JavaScript features.
+* ABOUT:
+```
+- This repo is me learning some more advanced or nuanced JavaScript features.
+- See the wiki for a complete .eslintrc.js file
+```
 
+* MIT LINCENSE:
+```
 Copyright 2023 github.com/Enrique-ZA
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this      
@@ -17,3 +23,4 @@ PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS 
 FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR      
 OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER     
 DEALINGS IN THE SOFTWARE.
+```
