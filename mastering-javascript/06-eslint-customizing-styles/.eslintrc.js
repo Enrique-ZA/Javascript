@@ -105,4 +105,4 @@ module.exports = {
       // color === 'red' instead if 'red' === color 
       "yoda": 'error',
     }
-};
+}
